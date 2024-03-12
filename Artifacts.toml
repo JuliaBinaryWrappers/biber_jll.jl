@@ -1,0 +1,76 @@
+[[biber]]
+arch = "aarch64"
+git-tree-sha1 = "6c7bc69e9d68dcdfd65b2a2d7736f214fbed016c"
+os = "macos"
+
+    [[biber.download]]
+    sha256 = "6a5f0cf4dc4d0bd2c615928e9d7339e0f5f1dae55594ac8192b609c7e20f5c58"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.aarch64-apple-darwin.tar.gz"
+[[biber]]
+arch = "aarch64"
+git-tree-sha1 = "4c26f8c18d72dc427e6133d579f6c5e7a033e606"
+libc = "glibc"
+os = "linux"
+
+    [[biber.download]]
+    sha256 = "119701a046484672f1f642c4739aa5c8e7b15839bbe07f3a9893e333f2c9c043"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.aarch64-linux-gnu.tar.gz"
+[[biber]]
+arch = "i686"
+git-tree-sha1 = "0791835690f03de10a3e10c249e4e906e30ad72a"
+libc = "glibc"
+os = "linux"
+
+    [[biber.download]]
+    sha256 = "6a4f2493f2572d66e7aa20ac8ff8e1b4967d440b223235dff49be070c1db041f"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.i686-linux-gnu.tar.gz"
+[[biber]]
+arch = "i686"
+git-tree-sha1 = "befeac5c1b3e9e4d9fe8f6a7f3da08f41071f270"
+os = "windows"
+
+    [[biber.download]]
+    sha256 = "683db8ee0aab68c08f81477b6c5c015401e843bf1e0ecf335140659b9a3a024b"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.i686-w64-mingw32.tar.gz"
+[[biber]]
+arch = "x86_64"
+git-tree-sha1 = "7de919894362db0e1cdd3477c0519595c2e9a90d"
+os = "macos"
+
+    [[biber.download]]
+    sha256 = "678f0de8c8c129774fe857361c37ece3b5ccf612567ec27659af2bb67275800d"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.x86_64-apple-darwin.tar.gz"
+[[biber]]
+arch = "x86_64"
+git-tree-sha1 = "76f9c804e02a92f805bcb394ef139b04da84f2ba"
+libc = "glibc"
+os = "linux"
+
+    [[biber.download]]
+    sha256 = "90c2963d8c3b34371a0d3ac3ddbf5469f205dffd4ccb7bc2cc7ab1584007f4e2"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.x86_64-linux-gnu.tar.gz"
+[[biber]]
+arch = "x86_64"
+git-tree-sha1 = "285c3978a71912c92f2b81f0ab06bad190b80f5f"
+libc = "musl"
+os = "linux"
+
+    [[biber.download]]
+    sha256 = "db1bd9fb3d953f18f2ddc38156983a0ec669c251623db89dcdfdcc31cc67b78e"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.x86_64-linux-musl.tar.gz"
+[[biber]]
+arch = "x86_64"
+git-tree-sha1 = "d2e038e0fd589a0e81efda687cf403b926b00179"
+os = "freebsd"
+
+    [[biber.download]]
+    sha256 = "b63c2fe67d9fe6da593f2eead4868fb3e67cec9887583d7d76bc252b57382a51"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.x86_64-unknown-freebsd.tar.gz"
+[[biber]]
+arch = "x86_64"
+git-tree-sha1 = "a93ed599e19d907b5a4c59147ccaf892202a8fbf"
+os = "windows"
+
+    [[biber.download]]
+    sha256 = "1dfe43e11bf7411d13bb80c09ce12895086745feed071db2617543d8fb2c0f67"
+    url = "https://github.com/JuliaBinaryWrappers/biber_jll.jl/releases/download/biber-v2.19.0+0/biber.v2.19.0.x86_64-w64-mingw32.tar.gz"
